@@ -1,0 +1,8 @@
+# config.yaml
+
+usage_parameters:
+  input_image_path: "C:/Users/anlun/OneDrive/Pictures/Mary/Raw/3.jpg"         # Path to the input image
+  output_image_path: "C:/Users/anlun/OneDrive/Pictures/Mary/Segmented"        # Directory to save the output image
+  model_path: "./models/sam2.1_b.pt"             # Path to the SAM2 model weights
+  verbosity: 2                                   # Logging verbosity: 0=WARNING, 1=INFO, 2=DEBUG
+  device: "cuda:0"                               # Device: "cpu" or "cuda:0" for GPU
