@@ -68,14 +68,14 @@ This **Interactive Object Segmentation Tool** empowers you to run advanced, high
 5. **Configure the Tool**: 
     Before running, update paths and parameters in config.yaml as described in the [Configuration](#configuration) section.
 
-5. **Run the tool**:
+6. **Run the tool**:
    ```bash
    python main.py
    ```
    
    On first run, SAM2 model weights will be automatically downloaded to the path specified in `config.yaml` if not already present.
 
-6. **Interact with the GUI**:
+7. **Interact with the GUI**:
    - Left-click on the image to add points (green "X").
    - Right-click to remove the last point.
    - Click `OK` to save results.
