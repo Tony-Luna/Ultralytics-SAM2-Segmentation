@@ -4,7 +4,7 @@
 
 ## Overview
 
-This **Interactive Object Segmentation Tool** empowers you to run advanced, high-accuracy object segmentation locally—no subscriptions, no cloud servers, and no complex editors needed. By integrating Meta’s **Segment Anything Model (SAM2)** through Ultralytics, this tool delivers cutting-edge segmentation right on your machine.
+This **Interactive Object Segmentation Tool** empowers you to run advanced, high-accuracy object segmentation locally, no subscriptions, no cloud servers, and no complex editors needed. By integrating Meta’s **Segment Anything Model (SAM2)** through Ultralytics, this tool delivers cutting-edge segmentation right on your machine.
 
 **Key Advantages**:
 - **Local & Private**: Full control over your data, no external uploads.
@@ -34,7 +34,7 @@ This **Interactive Object Segmentation Tool** empowers you to run advanced, high
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/segmentation_tool.git
+   git clone https://github.com/Tony-Luna/Ultralytics-SAM2-Segmentation.git
    cd segmentation_tool
    ```
 
@@ -64,6 +64,9 @@ This **Interactive Object Segmentation Tool** empowers you to run advanced, high
      ```bash
      pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cpu
      ```
+
+5. **Configure the Tool**: 
+    Before running, update paths and parameters in config.yaml as described in the [Configuration](#configuration) section.
 
 5. **Run the tool**:
    ```bash
