@@ -66,7 +66,7 @@ This **Interactive Object Segmentation Tool** empowers you to run advanced, high
      ```
 
 5. **Configure the Tool**: 
-    Before running, update paths and parameters in config.yaml as described in the [Configuration](#configuration) section.
+    - Before running, update paths and parameters in config.yaml as described in the [Configuration](#configuration) section.
 
 6. **Run the tool**:
    ```bash
