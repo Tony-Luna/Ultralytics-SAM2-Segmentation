@@ -1,0 +1,5 @@
+numpy<2
+Pillow
+opencv-python
+PyYAML
+ultralytics
