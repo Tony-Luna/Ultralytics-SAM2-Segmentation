@@ -201,12 +201,3 @@ We welcome community contributions:
 ## License
 
 This project is licensed under [AGPL-3.0](LICENSE).
-
----
-
-## Contact
-
-**Project Maintainer**  
-**Antonio Luna Macías** (Tony-Luna)  
-
-If you have any questions or suggestions, please open an issue or reach out!
