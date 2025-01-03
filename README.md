@@ -208,7 +208,5 @@ This project is licensed under [AGPL-3.0](LICENSE).
 
 **Project Maintainer**  
 **Antonio Luna Macías** (Tony-Luna)  
-- [LinkedIn](https://www.linkedin.com/in/antoniolunamacias/)  
-- [GitHub](https://github.com/Tony-Luna)
 
 If you have any questions or suggestions, please open an issue or reach out!
