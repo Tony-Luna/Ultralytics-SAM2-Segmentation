@@ -1,7 +1,7 @@
+# config/__init__.py
+# 01/02/2025
+# Author: Tony-Luna
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 12 16:54:52 2024
-
-@author: anlun
+Initialization for the config package.
 """
-

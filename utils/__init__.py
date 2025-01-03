@@ -1,7 +1,7 @@
+# utils/__init__.py
+# 01/02/2025
+# Author: Tony-Luna
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 12 16:55:04 2024
-
-@author: anlun
+Initialization for the utils package.
 """
-

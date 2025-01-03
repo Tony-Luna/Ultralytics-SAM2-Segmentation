@@ -1,7 +1,7 @@
+# gui/__init__.py
+# 01/02/2025
+# Author: Tony-Luna
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 12 17:31:46 2024
-
-@author: anlun
+Initialization for the gui package.
 """
-
