@@ -4,7 +4,7 @@
 
 ## Overview
 
-This **Interactive Object Segmentation Tool** provides a straightforward, **local** solution for high-accuracy object segmentation using **Meta’s Segment Anything Model (SAM2)**—integrated via **Ultralytics**. It enables you to refine masks via positive (green) and negative (red) prompts directly on your images, all running on your own machine.
+This **Interactive Object Segmentation Tool** provides a straightforward, **local** solution for high-accuracy object segmentation using **Meta’s Segment Anything Model (SAM2)**,integrated via **Ultralytics**. It enables you to refine masks via positive (green) and negative (red) prompts directly on your images, all running on your own machine.
 
 **Key Features**:
 - **Point-Based GUI**:  
